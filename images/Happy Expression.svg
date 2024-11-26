@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 820.96 820.96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-width: 12px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #1a1a1a;
+      }
+
+      .cls-5 {
+        fill: #e6e6e6;
+      }
+
+      .cls-6 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-3 {
+        fill: #ff7bac;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="410.48" cy="410.48" fx="410.48" fy="410.48" r="410.48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffff51"/>
+      <stop offset=".12" stop-color="#feec4b"/>
+      <stop offset=".33" stop-color="#fcd244"/>
+      <stop offset=".54" stop-color="#fbbf3f"/>
+      <stop offset=".76" stop-color="#fbb33c"/>
+      <stop offset="1" stop-color="#fbb03b"/>
+    </radialGradient>
+  </defs>
+  <circle class="cls-6" cx="410.48" cy="410.48" r="410.48"/>
+  <rect class="cls-5" x="237.18" y="189.11" width="153.06" height="282.09" rx="60.5" ry="60.5"/>
+  <rect class="cls-5" x="448.43" y="154.11" width="153.06" height="282.09" rx="60.5" ry="60.5"/>
+  <g>
+    <rect class="cls-4" x="291.57" y="263.75" width="45.54" height="123.97" rx="18" ry="18"/>
+    <path class="cls-5" d="M340.91,329.49h-27.2s3.68-18.94,27.2-18.94v18.94Z"/>
+  </g>
+  <g>
+    <rect class="cls-4" x="500.57" y="232.75" width="45.54" height="123.97" rx="18" ry="18"/>
+    <path class="cls-5" d="M549.91,298.49h-27.2s3.68-18.94,27.2-18.94v18.94Z"/>
+  </g>
+  <path class="cls-5" d="M192.87,453.2s20.08,140.32,210.08,107.55c0,0-89.52,109.54-173.76,65.38s-36.32-172.94-36.32-172.94Z"/>
+  <path class="cls-1" d="M188.94,205.98s63.34-87.31,148.17-104.15"/>
+  <path class="cls-1" d="M649.11,181.98s-63.34-87.31-148.17-104.15"/>
+  <path class="cls-2" d="M340.91,617.3c-126.03-8.68-158.81-117.69-158.81-117.69,0,0-14.24,95.44,32.3,119.91s39.28,28.3,112.91,5.38l13.6-7.6Z"/>
+  <path class="cls-3" d="M180.25,521.48s67.17,76.81,48.93,104.65c0,0-54.62-2.15-48.93-104.65Z"/>
+</svg>
